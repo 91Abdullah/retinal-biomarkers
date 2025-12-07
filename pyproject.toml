@@ -41,5 +41,5 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/aim-lab/PVBM"
-Repository = "https://github.com/aim-lab/PVBM"
+Homepage = "https://github.com/91Abdullah/retinal-biomarkers"
+Repository = "https://github.com/91Abdullah/retinal-biomarkers"

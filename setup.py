@@ -17,7 +17,7 @@ setup(
     description="Extract retinal vascular biomarkers from fundus images",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/aim-lab/PVBM",
+    url="https://github.com/91Abdullah/retinal-biomarkers",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
