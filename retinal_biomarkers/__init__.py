@@ -6,7 +6,7 @@ Provides transparent, validated implementations of geometric, fractal, and clini
 """
 
 __version__ = "1.0.0"
-__author__ = "AIM Lab"
+__author__ = "Abdullah Basit"
 
 from .extractor import RetinalFeatureExtractor
 from .geometry import GeometricalAnalysis
